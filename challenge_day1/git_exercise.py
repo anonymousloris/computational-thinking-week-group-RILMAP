@@ -2,7 +2,7 @@
 import Ilias
 import Lumi
 import Rafael
-import anna
+import Anna
 import Philine
 
 def team_intro():
@@ -10,7 +10,7 @@ def team_intro():
     print(Ilias.name)
     print(Lumi.name)
     print(Rafael.name)
-    print(anna.name)
+    print(Anna.name)
     print(Philine.name)
 
 if __name__ == "__main__":
